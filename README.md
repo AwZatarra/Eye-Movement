@@ -16,7 +16,7 @@
 
 ## :dart: Descripción ##
 
-Semana 8: Eye Movement es un proyecto del curso de certificación MITXPRO "Full-Stack with MERN". Es un demo donde los ojos seguiran el movimiento del mouse .
+Semana 8: Eye Movement es un proyecto del curso de certificación MITXPRO "Full-Stack with MERN". Es un demo donde los ojos seguirán el movimiento del mouse .
 
 ## :dart: DEMO ##
 
